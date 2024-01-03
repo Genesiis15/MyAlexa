@@ -1,0 +1,23 @@
+.footer{
+   
+    height: 400px;
+    padding: 100px 0;
+    
+}
+
+
+
+@media (max-width: 601px)  {
+  .footer{
+    display: block;
+   
+    padding: 100px;
+  }
+  .parrafoHome{
+    
+    flex-wrap: wrap;
+    margin-top: 400px;
+}
+
+}
+
